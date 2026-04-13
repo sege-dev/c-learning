@@ -2,7 +2,7 @@
 int main(){
     int choice;
     printf("---Welcome to the Cinema---\n");
-    printf("1: Student\n2 :Child\n3: Adult\n4: Senior\n5: VIP");
+    printf("1: Student\n2: Child\n3: Adult\n4: Senior\n5: VIP\n");
     scanf("%d",&choice);
     switch(choice) {
         case 1:
