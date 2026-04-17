@@ -1,34 +1,35 @@
-# C Programming Journey 🚀
+# C Programming: From Logic to Systems 🚀
 
-Welcome to my repository! This is where I document my progress as I learn the C programming language from scratch.
+Welcome to my C programming learning repository! This space serves as a dedicated log of my journey into the fundamentals of software engineering, focusing on building robust, logic-driven applications from the ground up.
 
-## 📝 About
+## 📂 Core Projects & Logic Modules
 
-This repository contains my solutions to class assignments, lab exercises, and fundamental algorithms. My main goal is to build a strong foundation in programming logic.
+I have focused on mastering **Decision Structures** and **Conditional Logic**. Instead of just solving syntax problems, I've built simulations that mimic real-world scenarios:
 
-## 🛠 Skills & Progress
+### 🛡️ Featured: Omni-Guard System Matrix
+A complex integrated system that manages building security, climate control, and energy optimization. It features:
+* **State Management:** Automated transitions between Panic, Home, and Away modes.
+* **Energy Awareness:** Climate control that adapts based on power source (Grid/Battery/Solar).
+* **Automated Security:** Motion-detection linked with time-based lighting and alarm levels.
 
-* **Basic Syntax:** I/O operations with `printf` and `scanf`.
-* **Decision Structures:** Mastery of `if-else`, `else if`, and **Nested If** logic.
-* **Logical Operators:** Effective use of `&&`, `||`, and `!` for complex conditions.
-* **Menu Systems:** Implementing multi-option programs using **Switch-Case**.
-* **Error Handling:** Basic input validation (e.g., zero division checks, attendance limits).
+### ⚙️ Systems & Simulations
+* **Financial & Billing:** Smart energy billing engines with tiered pricing and ATM simulators.
+* **Logistics:** Advanced shipping management systems with nested logic.
+* **Utilities:** Student grading systems, speed penalty calculators, and switch-based calculators.
 
-## 📂 Featured Projects
+## 🛠️ Technical Progress
 
-### 🏦 ATM Simulator
-A comprehensive banking application using nested `if-else` to manage deposits, withdrawals, and balance checks with security validations.
+* **Fundamentals:** Variable management, data types (`int`, `float`, `char`), and I/O operations.
+* **Logic Mastery:** Mastering `if-else` nesting, `switch-case` matrices, and complex logical operators (`&&`, `||`).
+* **Error Handling:** Implementing input validation and safe program termination (Early Returns).
 
-### 🎓 Student Grading & Scholarship System
-An advanced logic project that calculates GPAs and determines scholarship eligibility based on letter grades and attendance records.
+## 📈 Roadmap
 
-### 🧮 Simple Calculator (Switch-Case)
-A functional math tool that demonstrates the power of `switch-case` for menu navigation and mathematical operations, including zero-division protection.
+- [x] Variables & Basic Syntax
+- [x] Conditional Decision Structures
+- [ ] **Loops & Iterations (Next Milestone: for, while, do-while)**
+- [ ] Arrays & Memory Management
+- [ ] Functions & Modular Programming
 
-### 🚦 Student Eligibility Checker
-A program that validates student registration for specific courses based on GPA and Faculty requirements.
-
-## 📈 Next Steps
-- [ ] Loops (`for`, `while`, `do-while`)
-- [ ] Arrays and String manipulation
-- [ ] Functions and Modular programming
+---
+*This is a learning process, and the code was developed for practical purposes.*
